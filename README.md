@@ -1,5 +1,6 @@
 # Scripts
 <strong>Useful shell scripts</strong>
+by Mike Studer
 
 ## <em>Script name; Purpose</em><br>
 colors.sh; Displays ascii terminal color codes for use in scripts<br>
