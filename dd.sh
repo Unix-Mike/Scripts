@@ -24,5 +24,6 @@ gum style \
     --border-foreground 15 \
 	--align center --width 80 --margin "1 1" \
     "Command preview: $CMD"
-gum confirm && $CMD
+# gum confirm && $CMD
+gum confirm && gum spin --show-output --spinner line --title "Copying... " -- $CMD
 
