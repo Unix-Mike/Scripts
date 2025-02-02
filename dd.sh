@@ -18,8 +18,8 @@ OF=$(gum input --placeholder "Output File: ")
 
 CMD="$DD if=$IF of=$OF"
 gum style \
-	--foreground 15 \
-	--background 2 \
+	--foreground 10 \
+	--background 8 \
     --border double \
     --border-foreground 15 \
 	--align center --width 80 --margin "1 1" \
