@@ -1,4 +1,5 @@
-s file echoes a bunch of color codes to the 
+#!/usr/bin/bash
+#   This file echoes a bunch of color codes to the 
 #   terminal to demonstrate what's available.  Each 
 #   line is the color code of one forground color,
 #   out of 17 (default + 16 escapes), followed by a 
